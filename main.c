@@ -177,7 +177,7 @@ restart:
 	if (type == 1)
 	{
 		morse_code_func(input_phrase, result);
-		printf("\nMorze code reult:\n");
+		printf("\nMorze code result:\n");
 	}
 	else if (type == 2)
 	{
